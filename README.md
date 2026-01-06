@@ -9,12 +9,49 @@
 ## 🧠 My Vibe Statement
 
 > *From mentoring students to building scalable systems, I code with purpose.*  
-> Passionate about **problem-solving**, **automation**, and **turning ideas into impact**.  
-> Learning, building, and leveling up every single day 🚀
+> A **Full Stack Developer & AI/ML enthusiast** who loves solving real-world problems using clean, efficient, and scalable code.  
+> I believe in **learning by building**, collaborating with passionate minds, and continuously leveling up 🚀
+
+---
+
+## 👨‍💻 Who Am I?
+
+* 🎓 B.E. **Electronics & Communication Engineering** student
+* 🧑‍🏫 Mentored **40+ students** in Python, Java & Web Development
+* 🛠️ Experience with **industry-level projects & internships**
+* 💡 Strong interest in **AI/ML, Cloud & System Design**
+* ⚡ Hackathon enthusiast & lifelong learner
 
 ---
 
 ## 🧰 Tech Stack & Arsenal
+
+### 💻 Programming Languages
+
+* **Python**, **Java**, **C/C++**, **JavaScript**, **SQL / PL-SQL**
+
+### 🌐 Frontend Development
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js, TypeScript, Tailwind CSS
+* Framer Motion, Shadcn/UI
+
+### 🧩 Backend Development
+
+* Node.js, Express.js
+* Spring Boot, Hibernate, JWT Authentication
+* RESTful APIs & Microservices basics
+
+### 🗄️ Databases
+
+* MySQL, PostgreSQL, Oracle
+
+### ☁️ Cloud & Tools
+
+* Oracle Cloud Infrastructure
+* Git & GitHub, Linux
+* VS Code, IntelliJ IDEA, PyCharm, Eclipse
+* Figma, Tableau
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,spring,html,css,tailwind,mysql,postgres,oracle,git,github,figma,linux" />
@@ -24,17 +61,20 @@
 
 ## 🚀 Epic Projects & Quests
 
-* 🔐 **Automatically PC Lock & Unlock System**  
-  *Python • Bluetooth • AsyncIO*  
-  Smart proximity-based security automation with voice alerts
+### 🔐 Automatically PC Lock & Unlock System
 
-* 🌍 **IP Address Tracker**  
-  *React • TypeScript • Three.js • APIs*  
-  Real-time IP intelligence with modern UI & 3D visualization
+**Tech:** Python • Bluetooth (bleak) • AsyncIO • pywin32 • pyttsx3  
+An intelligent automation system that locks/unlocks your Windows PC based on smartphone proximity, enhanced with smart voice notifications.
 
-* 🎮 **Games Using Python**  
-  *PyGame • Turtle*  
-  Fun & educational games to master Python fundamentals
+### 🌍 IP Address Tracker
+
+**Tech:** React • TypeScript • Three.js • APIs • Tailwind CSS  
+A high-performance IP tracking web app with real-time geolocation, network intelligence, error handling, and modern 3D UI.
+
+### 🎮 Games Using Python
+
+**Tech:** Python • PyGame • Turtle  
+A collection of interactive games designed to strengthen Python fundamentals through fun and practical coding.
 
 ---
 
@@ -53,9 +93,10 @@
 
 ## 🎯 My Mission & Endgame
 
-* 🧠 **Grinding Now:** Full Stack + AI/ML + Cloud mastery
-* ☁️ **Leveling Up:** Oracle Cloud, scalable backend systems
-* 🏆 **Ultimate Goal:** Build impactful products & contribute to open-source
+* 🧠 **Grinding Now:** Full Stack Development + AI/ML foundations
+* ☁️ **Exploring:** Cloud Computing, DevOps & scalable systems
+* 🏆 **Ultimate Goal:** Build impactful products, crack top tech roles, and contribute to meaningful open-source projects
+* 🌍 **Long Term Vision:** Create tech solutions that positively impact people and businesses
 
 ---
 
